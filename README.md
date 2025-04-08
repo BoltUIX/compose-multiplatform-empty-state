@@ -22,4 +22,6 @@ A lightweight, reusable UI component built with **Jetpack Compose Multiplatform*
 
 Explore the full UI experience in our [Compose UI Showcase App](https://play.google.com/store/apps/details?id=com.boltuix.compose)
 
+🎥 Watch the preview on YouTube: [Compose Multiplatform Empty State Preview](https://youtu.be/J_XfGmayX4U)
+
 ---
