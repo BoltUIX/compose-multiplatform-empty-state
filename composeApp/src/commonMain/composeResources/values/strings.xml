@@ -1,0 +1,93 @@
+<resources>
+    <string name="empty_state_title">No files</string>
+    <string name="empty_state_subtitle">shared in the community.</string>
+    <string name="empty_state_image_description">Illustration of an empty state</string>
+
+    <string name="no_internet_title">You're Offline</string>
+    <string name="no_internet_subtitle">Please check your connection and try again.</string>
+    <string name="no_internet_button">Retry</string>
+    <string name="no_internet_image_description">Illustration of no internet connection</string>
+
+    <string name="empty_cart_title">Your Cart is Empty</string>
+    <string name="empty_cart_subtitle">Looks like you haven’t added anything yet.</string>
+    <string name="empty_cart_button">Browse Products</string>
+    <string name="empty_cart_image_description">Illustration of an empty cart</string>
+
+    <string name="notification_title">No Notifications Yet</string>
+    <string name="notification_subtitle">You're all caught up. We'll let you know when something arrives.</string>
+    <string name="notification_button">Explore</string>
+    <string name="notification_image_description">Illustration showing empty notifications</string>
+
+    <string name="deleted_title">Nothing in Deleted</string>
+    <string name="deleted_subtitle">Looks empty over here.</string>
+    <string name="deleted_button">Go Back</string>
+    <string name="deleted_image_description">Illustration showing an empty deleted items section</string>
+
+    <string name="drafts_title">Nothing in Drafts</string>
+    <string name="drafts_subtitle">Start writing something fabulous.</string>
+    <string name="drafts_image_description">Illustration showing empty drafts</string>
+
+    <string name="folder_title">Nothing in folder</string>
+    <string name="folder_subtitle">Looks empty over here.</string>
+    <string name="folder_image_description">Illustration showing empty folder</string>
+
+    <string name="login_welcome_back">Welcome Back</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_remember_me">Remember me</string>
+    <string name="login_button">Log In</string>
+    <string name="login_forgot_password">Forgot Password?</string>
+    <string name="login_terms_privacy">By signing up, I agree to the <a href="https://www.boltuix.com/terms-and-conditions.html">Terms and Conditions</a> and <a href="https://www.boltuix.com/2022/08/privacy-policy.html">Privacy Policy</a>.</string>
+
+    <string name="register_welcome">Create Account</string>
+    <string name="register_username">Username</string>
+    <string name="register_email">Email</string>
+    <string name="register_password">Password</string>
+    <string name="register_button">Sign Up</string>
+
+    <string name="forgot_welcome">Forgot Password?</string>
+    <string name="forgot_instruction">Enter your email address to receive a password reset link.</string>
+    <string name="forgot_email">Email</string>
+    <string name="forgot_button">Send Reset Link</string>
+
+    <string name="welcome_title">Welcome to the app &amp; let us get started</string>
+    <string name="welcome_subtitle">This app is the best app, thank you for downloading it.</string>
+    <string name="welcome_sign_up">Sign Up</string>
+    <string name="welcome_log_in">Log In</string>
+
+    <string name="lock_welcome">Unlock Your App</string>
+    <string name="lock_instruction">Enter your PIN to proceed.</string>
+    <string name="lock_pin">PIN</string>
+    <string name="lock_button">Unlock</string>
+
+    <string name="splash_tagline">Your App Name</string>
+
+    <string name="about_title">About Your App Name</string>
+    <string name="about_description">Your App Name is the best app for [describe purpose, e.g., productivity, entertainment]. Thank you for using it! Developed with love by [Your Name/Team]. Version 1.0.0.</string>
+
+    <string name="onboarding_welcome_title">Welcome to Your App Name</string>
+    <string name="onboarding_welcome_subtitle">Get started with these simple steps</string>
+    <string name="onboarding_get_started">Get Started</string>
+
+    <string name="home_welcome">Dashboard</string>
+    <string name="home_welcome_user">Welcome, %s!</string>
+
+    <string name="home_profile">Profile</string>
+    <string name="home_profile_desc">View your profile</string>
+    <string name="home_settings">Settings</string>
+    <string name="home_settings_desc">Adjust app settings</string>
+    <string name="home_stats">Stats</string>
+    <string name="home_stats_desc">Check your stats</string>
+    <string name="home_messages">Messages</string>
+    <string name="home_messages_desc">View messages</string>
+    <string name="home_tasks">Tasks</string>
+    <string name="home_tasks_desc">Manage tasks</string>
+    <string name="home_support">Support</string>
+    <string name="home_support_desc">Get help</string>
+    <string name="home_logout">Logout</string>
+    <string name="home_logout_desc">Sign out</string>
+
+    <string name="list_title">Items List</string>
+
+
+</resources>

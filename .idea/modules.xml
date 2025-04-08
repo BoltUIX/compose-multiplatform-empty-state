@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ComposeM.iml" filepath="$PROJECT_DIR$/.idea/modules/ComposeM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.appleMain.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.appleMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.appleTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.appleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.desktopMain.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.desktopMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.desktopTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.desktopTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.iosArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.iosArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.iosArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.iosArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.iosSimulatorArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.iosSimulatorArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.iosSimulatorArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.iosSimulatorArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.iosX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.iosX64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.iosX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.iosX64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.nativeMain.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.nativeMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.nativeTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.nativeTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.wasmJsMain.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.wasmJsMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.wasmJsTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/ComposeM.composeApp.wasmJsTest.iml" />
+    </modules>
+  </component>
+</project>
