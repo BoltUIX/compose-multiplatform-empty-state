@@ -21,8 +21,8 @@ A lightweight, reusable UI component built with **Jetpack Compose Multiplatform*
 ## Preview
 ![Empty State Preview](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTC0r4BYU7vY5KewOCY2VKEiHymABI6nualYiX50VBmOg0n5AUMkBtmuBUoWV5EuHDpPn2SJI37Gao3lS18uQmKdVL2OOZmseodfW-PysPAEItVSNx_IMCQ1y88xn1QRgOyd_5APpmqUkrNTzZHnWHpu4pNFU7DJyONQ7YBShdH13dPFTrR61Oexq8sXI/s16000/How%20to%20create%20a%20%20Empty%20State%20in%20Jetpack%20Compose%20for%20Kotlin%20Multiplatform.jpg)
 
-Explore the full UI experience in our [Compose UI Showcase App](https://play.google.com/store/apps/details?id=com.boltuix.compose)  
-🎥 Watch the preview on YouTube: [Compose Multiplatform Empty State Preview](https://youtu.be/J_XfGmayX4U)
+* Explore the full UI experience in our [Compose UI Showcase App](https://play.google.com/store/apps/details?id=com.boltuix.compose)  
+* Watch the tutorial on YouTube: [Compose Multiplatform Empty State Preview](https://youtu.be/J_XfGmayX4U)
 
 ## Implementation
 For the full source code, check the files in this repository (e.g., `NoInternetScreen.kt`). You can clone and run the project to test it directly.
